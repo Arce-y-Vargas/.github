@@ -28,8 +28,10 @@ Proporcionar una plataforma integral que permita operaciones comerciales eficien
 
 ## 📚 Documentación
 
-Para más información sobre nuestros servicios y productos, visita nuestro [Manual de Usuario](https://arce-y-vargas.gitbook.io/arce-y-vargas).
+- Consulta el [Manual de Usuario](https://arce-y-vargas.gitbook.io/arce-y-vargas) para aprender a usar todas las funcionalidades del sistema.
+- Accede directamente a la plataforma en: [https://arceyvargas.vercel.app](https://arceyvargas.vercel.app)
 
 ---
 
-*Transformando la gestión empresarial con tecnología innovadora*
+_Transformando la gestión empresarial con tecnología innovadora_  
+_Visítanos en [arceyvargas.vercel.app](https://arceyvargas.vercel.app)_
