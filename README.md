@@ -6,7 +6,7 @@ Arce y Vargas es una empresa especializada en soluciones de software de gestión
 
 ## 💼 Nuestros Servicios
 
-- **Gestión de Empleados** - Administración completa de recursos humanos
+- **Gestión Empleados** - Administración completa de recursos humanos
 - **Procesamiento de Nómina** - Cálculos automatizados de compensaciones
 - **Seguimiento de Vacaciones** - Control y gestión de tiempo libre
 - **Control de Inventario** - Monitoreo y administración de stock
@@ -28,10 +28,8 @@ Proporcionar una plataforma integral que permita operaciones comerciales eficien
 
 ## 📚 Documentación
 
-- Consulta el [Manual de Usuario](https://arce-y-vargas.gitbook.io/arce-y-vargas) para aprender a usar todas las funcionalidades del sistema.
-- Accede directamente a la plataforma en: [https://arceyvargas.vercel.app](https://arceyvargas.vercel.app)
+Para más información sobre nuestros servicios y productos, visita nuestro [Manual de Usuario](https://arce-y-vargas.gitbook.io/arce-y-vargas).
 
 ---
 
-_Transformando la gestión empresarial con tecnología innovadora_  
-_Visítanos en [arceyvargas.vercel.app](https://arceyvargas.vercel.app)_
+_Transformando la gestión empresarial con tecnología innovadora_
